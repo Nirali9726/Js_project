@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+h1{
+    
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+#clock {
+    font-size: 64px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
